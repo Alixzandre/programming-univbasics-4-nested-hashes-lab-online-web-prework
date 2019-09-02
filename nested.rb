@@ -103,7 +103,7 @@ def changing_alan
      }
      
      
-     programmer_hash[:dennis_ritchie][:known_for] ="GUI"
+     programmer_hash[:dennis_ritchie][:languages][1] ="GUI"
      
      
 end
