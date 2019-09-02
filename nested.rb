@@ -98,12 +98,12 @@ def changing_alan
         },
         :dennis_ritchie => {
           :known_for => "Unix",
-          :languages => ["C"]
+          :languages => ["C",""]
         }
      }
      
      
-     programmer_hash[:dennis_ritchie][:languages][1] ="GUI"
+     
      
      
 end
